@@ -1,0 +1,10 @@
+{
+  "name": "GFS Winter Weather",
+  "short_name": "Winter GFS",
+  "description": "Winter weather forecast from GFS model run consistency",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary"
+}
